@@ -22,7 +22,7 @@ $(document).ready(function() {
 
     $("input#new-city").val("");
     $("input#new-country").val("");
-    $("#new-season").val("");
+    $("#new-season").val("Winter");
 
   });
 });
